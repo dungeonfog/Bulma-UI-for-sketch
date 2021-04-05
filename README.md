@@ -1,8 +1,9 @@
+![Header logo](https://github.com/dungeonfog/Bulma-UI-for-sketch/blob/main/images/Library-Preview.webp "Header Logo")
+
 # Bulma-UI-for-sketch
 Bulma Sketch Library was made by [dungeonfog](https://www.dungeonfog.com) to make the life of UI/UX designers simpler.
 It contains the most *Elements*, *Forms* and *Components* from the [Bulma CSS framework](https://www.bulma.io).
 
-![Header logo](https://github.com/dungeonfog/Bulma-UI-for-sketch/blob/main/images/Library-Preview.webp "Header Logo")
 ![Preview graphic](https://github.com/dungeonfog/Bulma-UI-for-sketch/blob/main/images/img-bulma-preview.webp "Preview graphic of the elements")
 
 ## How to use
