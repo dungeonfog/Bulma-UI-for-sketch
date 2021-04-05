@@ -2,6 +2,8 @@
 Bulma Sketch Library was made by [dungeonfog](https://www.dungeonfog.com) to make the life of UI/UX designers simpler.
 It contains the most *Elements*, *Forms* and *Components* from the [Bulma CSS framework](https://www.bulma.io).
 
+
+
 ## How to use
 The recommended use of this document is to adapt it first to fit you CI by changing the *color variables* (especially ***primary***) and then the *text & layer styles* in this particular order.
 
