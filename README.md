@@ -1,7 +1,7 @@
 ![Header logo](https://github.com/dungeonfog/Bulma-UI-for-sketch/blob/main/images/Library-Preview.webp "Header Logo")
 
 # Bulma-UI-for-sketch
-Bulma Sketch Library was made by [dungeonfog](https://www.dungeonfog.com) to make the life of UI/UX designers simpler.
+Bulma Sketch Library was made by [Dungeonfog](https://www.dungeonfog.com) to make the life of UI/UX designers simpler.
 It contains the most *Elements*, *Forms* and *Components* from the [Bulma CSS framework](https://www.bulma.io).
 
 ![Preview graphic](https://github.com/dungeonfog/Bulma-UI-for-sketch/blob/main/images/img-bulma-preview.webp "Preview graphic of the elements")
@@ -27,6 +27,6 @@ The default font family used by this document is Helvetica Neue. When you change
 ## Font Awesome
 Thanks to [Font Awesome]() for their icons used by BULMA and hence in this document. All used icons can be found an the page *Placeholders and helpers*.
 
-### Copyright and license ![Github](https://img.shields.io/github/license/jgthms/bulma?logo=Github)
+## Copyright and license ![Github](https://img.shields.io/github/license/jgthms/bulma?logo=Github)
 
 Design copyright 2021 Dungeonfog. Sketchg file released under [the MIT license](https://github.com/dungeonfog/Bulma-UI-for-sketch/blob/main/LICENSE).
